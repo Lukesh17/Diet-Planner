@@ -1,2 +1,6 @@
-requests
-streamlit
+fastapi
+uvicorn
+python-dotenv
+pillow
+google-generativeai
+python-multipart
